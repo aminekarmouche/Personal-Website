@@ -1,0 +1,16 @@
+{
+  "name": "aminekarmouche.com",
+  "version": "1.0.0",
+  "description": "A Personal Website",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.12.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amine karmouche",
+  "repository": "https://github.com/aminekarmouche/Personal-Website",
+  "license": "ISC"
+}
